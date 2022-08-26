@@ -10,5 +10,11 @@
                                   1. index.blade.php
                                   2. create.blade.php
                                   3. edit.blade.php
+3. create {ModeleController}
+---- php artisan make:controller Backend/{ModuleController} -r
+4. Open {ModuleController} and add these 3 views
+                                  1. index.blade.php
+                                  2. create.blade.php
+                                  3. edit.blade.php
 
 
